@@ -1,4 +1,4 @@
-package in.bushansirgur.billingsoftware.io;
+package com.nmtanusha.billingsoftware.io;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

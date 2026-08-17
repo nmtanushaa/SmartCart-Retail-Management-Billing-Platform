@@ -1,10 +1,10 @@
-package in.bushansirgur.billingsoftware.controller;
+package com.nmtanusha.billingsoftware.controller;
 
-import in.bushansirgur.billingsoftware.io.AuthRequest;
-import in.bushansirgur.billingsoftware.io.AuthResponse;
-import in.bushansirgur.billingsoftware.service.UserService;
-import in.bushansirgur.billingsoftware.service.impl.AppUserDetailsService;
-import in.bushansirgur.billingsoftware.util.JwtUtil;
+import com.nmtanusha.billingsoftware.io.AuthRequest;
+import com.nmtanusha.billingsoftware.io.AuthResponse;
+import com.nmtanusha.billingsoftware.service.UserService;
+import com.nmtanusha.billingsoftware.service.impl.AppUserDetailsService;
+import com.nmtanusha.billingsoftware.util.JwtUtil;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.security.authentication.AuthenticationManager;

@@ -1,10 +1,10 @@
-package in.bushansirgur.billingsoftware.controller;
+package com.nmtanusha.billingsoftware.controller;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import in.bushansirgur.billingsoftware.io.ItemRequest;
-import in.bushansirgur.billingsoftware.io.ItemResponse;
-import in.bushansirgur.billingsoftware.service.ItemService;
+import com.nmtanusha.billingsoftware.io.ItemRequest;
+import com.nmtanusha.billingsoftware.io.ItemResponse;
+import com.nmtanusha.billingsoftware.service.ItemService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

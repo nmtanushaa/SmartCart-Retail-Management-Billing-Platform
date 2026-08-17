@@ -1,7 +1,7 @@
-package in.bushansirgur.billingsoftware.service;
+package com.nmtanusha.billingsoftware.service;
 
-import in.bushansirgur.billingsoftware.io.UserRequest;
-import in.bushansirgur.billingsoftware.io.UserResponse;
+import com.nmtanusha.billingsoftware.io.UserRequest;
+import com.nmtanusha.billingsoftware.io.UserResponse;
 
 import java.util.List;
 

@@ -1,6 +1,6 @@
-package in.bushansirgur.billingsoftware.repository;
+package com.nmtanusha.billingsoftware.repository;
 
-import in.bushansirgur.billingsoftware.entity.UserEntity;
+import com.nmtanusha.billingsoftware.entity.UserEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

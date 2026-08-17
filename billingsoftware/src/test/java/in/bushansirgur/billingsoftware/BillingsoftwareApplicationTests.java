@@ -1,4 +1,4 @@
-package in.bushansirgur.billingsoftware;
+package com.nmtanusha.billingsoftware;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

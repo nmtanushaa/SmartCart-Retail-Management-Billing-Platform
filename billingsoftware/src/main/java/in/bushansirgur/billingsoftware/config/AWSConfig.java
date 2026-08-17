@@ -1,4 +1,4 @@
-package in.bushansirgur.billingsoftware.config;
+package com.nmtanusha.billingsoftware.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

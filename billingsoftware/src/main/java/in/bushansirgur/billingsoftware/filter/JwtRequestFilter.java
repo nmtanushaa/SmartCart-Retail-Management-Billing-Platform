@@ -1,7 +1,7 @@
-package in.bushansirgur.billingsoftware.filter;
+package com.nmtanusha.billingsoftware.filter;
 
-import in.bushansirgur.billingsoftware.service.impl.AppUserDetailsService;
-import in.bushansirgur.billingsoftware.util.JwtUtil;
+import com.nmtanusha.billingsoftware.service.impl.AppUserDetailsService;
+import com.nmtanusha.billingsoftware.util.JwtUtil;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

@@ -1,8 +1,8 @@
-package in.bushansirgur.billingsoftware.service;
+package com.nmtanusha.billingsoftware.service;
 
-import in.bushansirgur.billingsoftware.io.OrderRequest;
-import in.bushansirgur.billingsoftware.io.OrderResponse;
-import in.bushansirgur.billingsoftware.io.PaymentVerificationRequest;
+import com.nmtanusha.billingsoftware.io.OrderRequest;
+import com.nmtanusha.billingsoftware.io.OrderResponse;
+import com.nmtanusha.billingsoftware.io.PaymentVerificationRequest;
 import org.springframework.data.domain.Pageable;
 
 import java.time.LocalDate;

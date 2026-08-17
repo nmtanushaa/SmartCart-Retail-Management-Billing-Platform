@@ -1,8 +1,8 @@
-package in.bushansirgur.billingsoftware.controller;
+package com.nmtanusha.billingsoftware.controller;
 
-import in.bushansirgur.billingsoftware.io.UserRequest;
-import in.bushansirgur.billingsoftware.io.UserResponse;
-import in.bushansirgur.billingsoftware.service.UserService;
+import com.nmtanusha.billingsoftware.io.UserRequest;
+import com.nmtanusha.billingsoftware.io.UserResponse;
+import com.nmtanusha.billingsoftware.service.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.security.access.prepost.PreAuthorize;

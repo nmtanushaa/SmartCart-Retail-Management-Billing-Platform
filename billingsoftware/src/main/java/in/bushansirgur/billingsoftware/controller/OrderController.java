@@ -1,8 +1,8 @@
-package in.bushansirgur.billingsoftware.controller;
+package com.nmtanusha.billingsoftware.controller;
 
-import in.bushansirgur.billingsoftware.io.OrderRequest;
-import in.bushansirgur.billingsoftware.io.OrderResponse;
-import in.bushansirgur.billingsoftware.service.OrderService;
+import com.nmtanusha.billingsoftware.io.OrderRequest;
+import com.nmtanusha.billingsoftware.io.OrderResponse;
+import com.nmtanusha.billingsoftware.service.OrderService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
